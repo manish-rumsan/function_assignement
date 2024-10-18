@@ -5,7 +5,7 @@ function findSquare(number) {
 }
 
 // Example usage
-let inputNumber = 5; // You can change this number to test
+let inputNumber = 5; 
 let result = findSquare(inputNumber);
 
 console.log("The square of " + inputNumber + " is: " + result);
